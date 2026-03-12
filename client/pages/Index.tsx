@@ -49,7 +49,7 @@ export default function Index() {
           <div className="w-48 md:w-64 lg:w-[270px] h-px bg-white/50"></div>
 
           {/* Tagline */}
-          <p className="text-white font-inria-serif italic text-lg md:text-2xl lg:text-3xl xl:text-[30px] leading-relaxed tracking-wide max-w-sm">
+          <p className="text-white font-inria-serif italic text-lg md:text-2xl lg:text-3xl xl:text-[35px] leading-relaxed tracking-wide max-w-sm">
             Poetic justice in every bar.
           </p>
 
