@@ -49,19 +49,19 @@ export default function Index() {
           <div className="w-48 md:w-64 lg:w-[270px] h-px bg-white/50"></div>
 
           {/* Tagline */}
-          <p className="text-white font-inria-serif italic text-lg md:text-2xl lg:text-3xl xl:text-[35px] leading-relaxed tracking-wide max-w-sm">
+          <p className="text-white font-inria-serif italic text-lg md:text-2xl lg:text-3xl xl:text-[30px] leading-relaxed tracking-wide max-w-sm">
             Poetic justice in every bar.
           </p>
 
           {/* CTA Buttons */}
           <div className="space-y-3 md:space-y-4 lg:space-y-[11px]">
-            <button className="block text-white font-inria-serif text-lg md:text-2xl lg:text-[30px] font-light tracking-wide hover:opacity-80 transition-opacity text-left animate-fade-in-stagger-1">
+            <button className="block text-white font-inria-serif text-lg md:text-2xl lg:text-[20px] font-light tracking-wide hover:opacity-80 transition-opacity text-left animate-fade-in-stagger-1">
               Listen now
             </button>
-            <button className="block text-white font-inria-serif text-lg md:text-2xl lg:text-[30px] font-light tracking-wide hover:opacity-80 transition-opacity text-left animate-fade-in-stagger-2">
+            <button className="block text-white font-inria-serif text-lg md:text-2xl lg:text-[20px] font-light tracking-wide hover:opacity-80 transition-opacity text-left animate-fade-in-stagger-2">
               Tour dates
             </button>
-            <button className="block text-white font-inria-serif text-lg md:text-2xl lg:text-[30px] font-light tracking-wide hover:opacity-80 transition-opacity text-left animate-fade-in-stagger-3">
+            <button className="block text-white font-inria-serif text-lg md:text-2xl lg:text-[20px] font-light tracking-wide hover:opacity-80 transition-opacity text-left animate-fade-in-stagger-3">
               Merch
             </button>
           </div>
